@@ -1,7 +1,22 @@
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: inherit;
+.body {
+  font-family: 'Press Start 2P', sans-serif;
+  color: #eee;
+  background-color: #222;
+  /* background-color: #60b347; */
 }
+   
+.check {
  
+  margin-top: 100px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  padding: 5px 20px;
+}
+.firstNum {
+  border-radius: 10px;
 
+}
+.secondNum{
+  border-radius: 10px;
+}
